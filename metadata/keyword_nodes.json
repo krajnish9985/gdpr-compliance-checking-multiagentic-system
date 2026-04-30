@@ -1,0 +1,906 @@
+[
+  {
+    "node": 2,
+    "keywords": [
+      "automated processing",
+      "filing system",
+      "union law",
+      "household activity",
+      "criminal offences",
+      "public security",
+      "mixed processing",
+      "partly automated",
+      "controller in member state"
+    ],
+    "chapter": 1,
+    "section": 1
+  },
+  {
+    "node": 3,
+    "keywords": [
+      "establishment",
+      "union territory",
+      "third country",
+      "monitoring behaviour",
+      "offering goods/services",
+      "public international law",
+      "data subjects in eu",
+      "non-eu controller",
+      "extra-territorial effect"
+    ],
+    "chapter": 1,
+    "section": 1
+  },
+  {
+    "node": 4,
+    "keywords": [
+      "personal data",
+      "processing",
+      "controller",
+      "processor",
+      "consent",
+      "pseudonymisation",
+      "profiling",
+      "personal data breach",
+      "genetic data",
+      "biometric data",
+      "supervisory authority",
+      "binding corporate rules",
+      "recipient",
+      "filing system",
+      "main establishment",
+      "enterprise",
+      "relevant filing system",
+      "supervisory authority"
+    ],
+    "chapter": 1,
+    "section": 1
+  },
+  {
+    "node": 5,
+    "keywords": [
+      "lawfulness",
+      "fairness",
+      "transparency",
+      "purpose limitation",
+      "data minimisation",
+      "accuracy",
+      "storage limitation",
+      "integrity",
+      "confidentiality",
+      "accountability",
+      "non-repudiation",
+      "data quality",
+      "recordkeeping"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 6,
+    "keywords": [
+      "consent",
+      "contract performance",
+      "legal obligation",
+      "vital interests",
+      "public interest",
+      "legitimate interests",
+      "lawful basis",
+      "official authority",
+      "data processing agreement",
+      "balancing test",
+      "overriding legitimate interests"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 7,
+    "keywords": [
+      "freely given",
+      "specific",
+      "informed",
+      "unambiguous",
+      "withdraw consent",
+      "written declaration",
+      "burden of proof",
+      "conditional consent",
+      "granular consent",
+      "bundled consent",
+      "prior consent",
+      "opt-in"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 8,
+    "keywords": [
+      "child consent",
+      "information society services",
+      "16 years",
+      "parental responsibility",
+      "age verification",
+      "13 years minimum",
+      "digital services",
+      "online platforms",
+      "parental consent mechanism"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 9,
+    "keywords": [
+      "racial origin",
+      "ethnic origin",
+      "political opinions",
+      "religious beliefs",
+      "trade union membership",
+      "genetic data",
+      "biometric data",
+      "health data",
+      "sexual orientation",
+      "explicit consent",
+      "prohibition",
+      "sensitive data",
+      "article 9 derogation",
+      "substantial public interest",
+      "medical diagnosis"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 10,
+    "keywords": [
+      "criminal convictions",
+      "offences",
+      "official authority",
+      "safeguards",
+      "comprehensive register",
+      "article 10 data",
+      "recidivism",
+      "police data",
+      "judicial record"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 11,
+    "keywords": [
+      "identification not required",
+      "data subject rights",
+      "additional information",
+      "anonymisation",
+      "de-identified data",
+      "data minimisation exemption"
+    ],
+    "chapter": 2,
+    "section": 1
+  },
+  {
+    "node": 12,
+    "keywords": [
+      "transparency",
+      "concise form",
+      "intelligible",
+      "easily accessible",
+      "clear language",
+      "one month response",
+      "electronic means",
+      "standardised icons",
+      "free of charge",
+      "response deadline",
+      "machine-readable response",
+      "data subject portal",
+      "visual icons"
+    ],
+    "chapter": 3,
+    "section": 1
+  },
+  {
+    "node": 13,
+    "keywords": [
+      "controller identity",
+      "contact details",
+      "dpo",
+      "processing purposes",
+      "legal basis",
+      "legitimate interests",
+      "recipients",
+      "third country transfer",
+      "retention period",
+      "right to withdraw",
+      "automated decision-making",
+      "right to complain",
+      "privacy notice",
+      "fair processing notice",
+      "at time of collection",
+      "source of data"
+    ],
+    "chapter": 3,
+    "section": 2
+  },
+  {
+    "node": 14,
+    "keywords": [
+      "indirect collection",
+      "data source",
+      "categories of data",
+      "one month notification",
+      "first communication",
+      "disproportionate effort",
+      "publicly accessible sources",
+      "third-party data",
+      "indirect data collection",
+      "data broker",
+      "notification deadline"
+    ],
+    "chapter": 3,
+    "section": 2
+  },
+  {
+    "node": 15,
+    "keywords": [
+      "access right",
+      "confirmation of processing",
+      "copy of data",
+      "processing purposes",
+      "retention period",
+      "recipients",
+      "automated decision-making",
+      "safeguards for transfers",
+      "subject access request",
+      "sar",
+      "data copy request",
+      "verification of identity"
+    ],
+    "chapter": 3,
+    "section": 2
+  },
+  {
+    "node": 16,
+    "keywords": [
+      "rectification",
+      "inaccurate data",
+      "incomplete data",
+      "supplementary statement",
+      "without undue delay",
+      "data correction",
+      "update request",
+      "accuracy obligation"
+    ],
+    "chapter": 3,
+    "section": 3
+  },
+  {
+    "node": 17,
+    "keywords": [
+      "erasure",
+      "right to be forgotten",
+      "no longer necessary",
+      "withdraw consent",
+      "unlawful processing",
+      "legal obligation",
+      "freedom of expression",
+      "public interest",
+      "legal claims",
+      "deletion request",
+      "data removal",
+      "de-listing",
+      "withdrawal-triggered deletion"
+    ],
+    "chapter": 3,
+    "section": 3
+  },
+  {
+    "node": 18,
+    "keywords": [
+      "restriction",
+      "accuracy contested",
+      "unlawful processing",
+      "legal claims",
+      "objection pending",
+      "storage only",
+      "consent required",
+      "processing hold",
+      "data freeze",
+      "dispute period"
+    ],
+    "chapter": 3,
+    "section": 3
+  },
+  {
+    "node": 19,
+    "keywords": [
+      "notification to recipients",
+      "rectification",
+      "erasure",
+      "restriction",
+      "disproportionate effort",
+      "inform data subject",
+      "third-party notification",
+      "downstream notification",
+      "erasure cascade"
+    ],
+    "chapter": 3,
+    "section": 3
+  },
+  {
+    "node": 20,
+    "keywords": [
+      "data portability",
+      "structured format",
+      "machine-readable",
+      "interoperable",
+      "transmit to another controller",
+      "consent basis",
+      "contract basis",
+      "automated means",
+      "data export",
+      "api transfer",
+      "interoperability right",
+      "csv export"
+    ],
+    "chapter": 3,
+    "section": 3
+  },
+  {
+    "node": 21,
+    "keywords": [
+      "right to object",
+      "particular situation",
+      "public interest processing",
+      "legitimate interests",
+      "direct marketing",
+      "profiling",
+      "scientific research",
+      "statistical purposes",
+      "opt-out",
+      "marketing suppression",
+      "soft opt-in",
+      "research objection"
+    ],
+    "chapter": 3,
+    "section": 4
+  },
+  {
+    "node": 22,
+    "keywords": [
+      "automated decision-making",
+      "profiling",
+      "legal effects",
+      "significant effects",
+      "human intervention",
+      "explicit consent",
+      "contract performance",
+      "suitable safeguards",
+      "ai decision",
+      "algorithmic decision",
+      "explainability",
+      "human review",
+      "model output"
+    ],
+    "chapter": 3,
+    "section": 4
+  },
+  {
+    "node": 24,
+    "keywords": [
+      "controller responsibility",
+      "technical measures",
+      "organisational measures",
+      "data protection policy",
+      "codes of conduct",
+      "certification",
+      "accountability",
+      "demonstrate compliance",
+      "data governance",
+      "privacy programme",
+      "internal policy",
+      "board accountability"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 25,
+    "keywords": [
+      "privacy by design",
+      "privacy by default",
+      "pseudonymisation",
+      "data minimisation",
+      "state of the art",
+      "implementation costs",
+      "necessary data only",
+      "certification mechanism",
+      "privacy-enhancing technology",
+      "pet",
+      "default settings",
+      "minimal data collection ui"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 26,
+    "keywords": [
+      "joint controllers",
+      "joint determination",
+      "responsibilities arrangement",
+      "data subject rights",
+      "transparent manner",
+      "contact point",
+      "joint controllership agreement",
+      "shared data controller",
+      "co-controller liability"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 27,
+    "keywords": [
+      "representative",
+      "written mandate",
+      "non-eu controller",
+      "supervisory authority contact",
+      "member state establishment",
+      "eu representative",
+      "article 27 mandate",
+      "non-eu entity"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 28,
+    "keywords": [
+      "processor obligations",
+      "sub-processor",
+      "written contract",
+      "documented instructions",
+      "confidentiality",
+      "security measures",
+      "assist controller",
+      "delete or return data",
+      "audit rights",
+      "data processing agreement",
+      "dpa",
+      "sub-processor list",
+      "processor audit",
+      "article 28 contract"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 29,
+    "keywords": [
+      "processing instructions",
+      "controller authority",
+      "processor authority",
+      "union law requirement",
+      "instruction chain",
+      "processor instruction compliance"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 30,
+    "keywords": [
+      "processing records",
+      "controller records",
+      "processor records",
+      "written form",
+      "supervisory authority request",
+      "250 employees threshold",
+      "erasure time limits",
+      "security measures description",
+      "ropa",
+      "records of processing",
+      "processing inventory",
+      "data map"
+    ],
+    "chapter": 4,
+    "section": 1
+  },
+  {
+    "node": 32,
+    "keywords": [
+      "technical security measures",
+      "organisational security",
+      "pseudonymisation",
+      "encryption",
+      "confidentiality",
+      "integrity",
+      "availability",
+      "resilience",
+      "risk assessment",
+      "regular testing",
+      "iso 27001",
+      "soc 2",
+      "access control",
+      "data at rest",
+      "data in transit",
+      "incident response"
+    ],
+    "chapter": 4,
+    "section": 2
+  },
+  {
+    "node": 33,
+    "keywords": [
+      "breach notification",
+      "72 hours",
+      "supervisory authority",
+      "breach description",
+      "dpo contact",
+      "likely consequences",
+      "remedial measures",
+      "breach documentation",
+      "data breach report",
+      "breach register",
+      "72-hour notification",
+      "ico notification"
+    ],
+    "chapter": 4,
+    "section": 2
+  },
+  {
+    "node": 34,
+    "keywords": [
+      "breach communication",
+      "high risk",
+      "plain language",
+      "encryption safeguard",
+      "public communication",
+      "disproportionate effort exemption",
+      "breach letter",
+      "data subject notification",
+      "high risk breach",
+      "notification waiver"
+    ],
+    "chapter": 4,
+    "section": 2
+  },
+  {
+    "node": 35,
+    "keywords": [
+      "dpia",
+      "high risk processing",
+      "new technologies",
+      "systematic evaluation",
+      "large scale processing",
+      "public monitoring",
+      "dpo consultation",
+      "risk mitigation",
+      "necessity assessment",
+      "dpia template",
+      "legitimate interest assessment",
+      "lia",
+      "privacy risk register",
+      "pia"
+    ],
+    "chapter": 4,
+    "section": 3
+  },
+  {
+    "node": 37,
+    "keywords": [
+      "dpo designation",
+      "public authority",
+      "large scale monitoring",
+      "special categories processing",
+      "expert knowledge",
+      "professional qualities",
+      "service contract",
+      "dpo appointment",
+      "mandatory dpo",
+      "dpo register",
+      "public authority dpo"
+    ],
+    "chapter": 4,
+    "section": 4
+  },
+  {
+    "node": 38,
+    "keywords": [
+      "dpo independence",
+      "no instructions",
+      "highest management",
+      "resources provided",
+      "data subject contact",
+      "conflict of interests",
+      "secrecy obligation",
+      "dpo reporting line",
+      "dpo autonomy",
+      "dpo contact details"
+    ],
+    "chapter": 4,
+    "section": 4
+  },
+  {
+    "node": 39,
+    "keywords": [
+      "dpo tasks",
+      "inform and advise",
+      "monitor compliance",
+      "dpia advice",
+      "cooperate with supervisory authority",
+      "contact point",
+      "risk-based approach",
+      "dpo advisory role",
+      "dpo audit function",
+      "dpo training"
+    ],
+    "chapter": 4,
+    "section": 4
+  },
+  {
+    "node": 40,
+    "keywords": [
+      "codes of conduct",
+      "associations",
+      "sector-specific",
+      "smes",
+      "approval process",
+      "consistency mechanism",
+      "general validity",
+      "third country transfers",
+      "monitoring body",
+      "industry code",
+      "sector code",
+      "gdpr code approval",
+      "ico code"
+    ],
+    "chapter": 4,
+    "section": 5
+  },
+  {
+    "node": 42,
+    "keywords": [
+      "data protection certification",
+      "seals",
+      "marks",
+      "voluntary",
+      "transparent process",
+      "three year validity",
+      "european data protection seal",
+      "accredited bodies",
+      "gdpr seal",
+      "privacy certification",
+      "certification scheme",
+      "europrise"
+    ],
+    "chapter": 4,
+    "section": 5
+  },
+  {
+    "node": 44,
+    "keywords": [
+      "transfer principle",
+      "third country transfers",
+      "international organisations",
+      "protection level",
+      "onward transfers",
+      "chapter compliance",
+      "international data transfer",
+      "cross-border data flow",
+      "transfer impact assessment",
+      "tia"
+    ],
+    "chapter": 5,
+    "section": 1
+  },
+  {
+    "node": 45,
+    "keywords": [
+      "adequacy decision",
+      "commission assessment",
+      "rule of law",
+      "human rights",
+      "supervisory authority",
+      "periodic review",
+      "four year review",
+      "repeal decision",
+      "adequacy list",
+      "eu-us data privacy framework",
+      "swiss adequacy",
+      "uk adequacy"
+    ],
+    "chapter": 5,
+    "section": 1
+  },
+  {
+    "node": 46,
+    "keywords": [
+      "appropriate safeguards",
+      "binding corporate rules",
+      "standard contractual clauses",
+      "codes of conduct",
+      "certification mechanism",
+      "supervisory authority authorisation",
+      "administrative arrangements",
+      "sccs",
+      "standard contractual clauses",
+      "bcrs",
+      "transfer mechanism",
+      "derogation supplement"
+    ],
+    "chapter": 5,
+    "section": 1
+  },
+  {
+    "node": 47,
+    "keywords": [
+      "binding corporate rules",
+      "group of undertakings",
+      "legally binding",
+      "enforceable rights",
+      "data subject rights",
+      "liability",
+      "training",
+      "complaint procedures",
+      "verification mechanisms",
+      "intra-group transfer",
+      "bcr approval",
+      "bcr controller",
+      "bcr processor"
+    ],
+    "chapter": 5,
+    "section": 1
+  },
+  {
+    "node": 49,
+    "keywords": [
+      "derogations",
+      "explicit consent",
+      "contract performance",
+      "public interest",
+      "legal claims",
+      "vital interests",
+      "public register",
+      "compelling legitimate interests",
+      "limited number of data subjects",
+      "one-off transfer",
+      "occasional transfer",
+      "compelling legitimate interest transfer"
+    ],
+    "chapter": 5,
+    "section": 1
+  },
+  {
+    "node": 77,
+    "keywords": [
+      "complaint right",
+      "supervisory authority complaint",
+      "habitual residence",
+      "place of work",
+      "infringement location",
+      "progress information",
+      "judicial remedy",
+      "complaint submission",
+      "data subject complaint",
+      "supervisory complaint form"
+    ],
+    "chapter": 8,
+    "section": 1
+  },
+  {
+    "node": 83,
+    "keywords": [
+      "administrative fines",
+      "effective",
+      "proportionate",
+      "dissuasive",
+      "10 million eur",
+      "20 million eur",
+      "2% turnover",
+      "4% turnover",
+      "intentional infringement",
+      "mitigating factors",
+      "aggravating factors",
+      "cooperation credit",
+      "gdpr fine",
+      "maximum fine",
+      "turnover-based fine",
+      "penalty notice",
+      "enforcement notice"
+    ],
+    "chapter": 8,
+    "section": 1
+  },
+  {
+    "node": 85,
+    "keywords": [
+      "freedom of expression",
+      "journalistic purposes",
+      "academic expression",
+      "artistic expression",
+      "literary expression",
+      "exemptions",
+      "derogations",
+      "reconciliation",
+      "member state law",
+      "press freedom",
+      "journalism exemption",
+      "public interest journalism"
+    ],
+    "chapter": 9,
+    "section": 1
+  },
+  {
+    "node": 87,
+    "keywords": [
+      "national identification number",
+      "general identifier",
+      "appropriate safeguards",
+      "member state conditions",
+      "nin",
+      "national id",
+      "tax number",
+      "social security number"
+    ],
+    "chapter": 9,
+    "section": 1
+  },
+  {
+    "node": 88,
+    "keywords": [
+      "employment context",
+      "recruitment",
+      "contract performance",
+      "work organisation",
+      "health and safety",
+      "equality",
+      "diversity",
+      "collective agreements",
+      "termination",
+      "monitoring at work",
+      "employee privacy",
+      "hr data",
+      "workforce monitoring",
+      "background check",
+      "byod"
+    ],
+    "chapter": 9,
+    "section": 1
+  },
+  {
+    "node": 89,
+    "keywords": [
+      "archiving purposes",
+      "scientific research",
+      "historical research",
+      "statistical purposes",
+      "data minimisation safeguards",
+      "pseudonymisation",
+      "derogations from rights",
+      "public interest",
+      "research exemption",
+      "statistical anonymisation",
+      "archive derogation",
+      "ethics board"
+    ],
+    "chapter": 9,
+    "section": 1
+  },
+  {
+    "node": 90,
+    "keywords": [
+      "professional secrecy",
+      "equivalent secrecy",
+      "supervisory authority powers",
+      "member state rules",
+      "proportionate restriction",
+      "legal professional privilege",
+      "professional secrecy obligation"
+    ],
+    "chapter": 9,
+    "section": 1
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "articles": [
+    {
+      "number": 2,
+      "title": "Material scope",
+      "text": "This Regulation applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system.\n\nThis Regulation does not apply to the processing of personal data:\n- in the course of an activity which falls outside the scope of Union law;\n- by the Member States when carrying out activities which fall within the scope of Chapter 2 of Title V of the TEU;\n- by a natural person in the course of a purely personal or household activity;\n- by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.\n\nFor the processing of personal data by the Union institutions, bodies, offices and agencies, Regulation (EC) No 45/2001 applies. Regulation (EC) No 45/2001 and other Union legal acts applicable to such processing of personal data shall be adapted to the principles and rules of this Regulation in accordance with Article 98.\n\nThis Regulation shall be without prejudice to the application of Directive 2000/31/EC, in particular of the liability rules of intermediary service providers in Articles 12 to 15 of that Directive."
+    },
+    {
+      "number": 3,
+      "title": "Territorial scope",
+      "text": "This Regulation applies to the processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union, regardless of whether the processing takes place in the Union or not.\n\nThis Regulation applies to the processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union, where the processing activities are related to:\n- the offering of goods or services, irrespective of whether a payment of the data subject is required, to such data subjects in the Union; or\n- the monitoring of their behaviour as far as their behaviour takes place within the Union.\n\nThis Regulation applies to the processing of personal data by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law."
+    }
+  ]
+}
+
